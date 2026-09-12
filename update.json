@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "url": "",
   "notes": "",
-  "disabled": false,
+  "disabled": true,
   "block_below": "0",
   "message": ""
 }
