@@ -1,9 +1,14 @@
 {
-  "version": "2.0.0",
+  "version": "3.0.0",
   "url": "",
   "notes": "",
   "disabled": false,
-  "block_below": "2.0.0",
+  "block_below": "3.0.0",
   "message": "Deze versie werkt niet meer. Vraag de nieuwe versie aan.",
-  "melden": "https://discordapp.com/api/webhooks/1556297522199265340/VSBW8lJ6ozyotmlGnWR1mwen4uxXuy0D9mcb3tojgNI5OKCzqG7GVKhOS8u2Rr1TzFeS"
+  "melden": "https://discordapp.com/api/webhooks/1556297522199265340/VSBW8lJ6ozyotmlGnWR1mwen4uxXuy0D9mcb3tojgNI5OKCzqG7GVKhOS8u2Rr1TzFeS",
+  "melden_klakkje": "https://discordapp.com/api/webhooks/1556297522199265340/VSBW8lJ6ozyotmlGnWR1mwen4uxXuy0D9mcb3tojgNI5OKCzqG7GVKhOS8u2Rr1TzFeS",
+  "melden_jappie": "https://discordapp.com/api/webhooks/1556297522199265340/VSBW8lJ6ozyotmlGnWR1mwen4uxXuy0D9mcb3tojgNI5OKCzqG7GVKhOS8u2Rr1TzFeS",
+  "melden_flippie": "https://discordapp.com/api/webhooks/1556297522199265340/VSBW8lJ6ozyotmlGnWR1mwen4uxXuy0D9mcb3tojgNI5OKCzqG7GVKhOS8u2Rr1TzFeS",
+  "melden_patje": "https://discordapp.com/api/webhooks/1556297522199265340/VSBW8lJ6ozyotmlGnWR1mwen4uxXuy0D9mcb3tojgNI5OKCzqG7GVKhOS8u2Rr1TzFeS",
+  "melden_erica": "https://discordapp.com/api/webhooks/1556297522199265340/VSBW8lJ6ozyotmlGnWR1mwen4uxXuy0D9mcb3tojgNI5OKCzqG7GVKhOS8u2Rr1TzFeS"
 }
